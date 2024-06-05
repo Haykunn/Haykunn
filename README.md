@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Haykunn
-- 👀 I’m interested in web development
+- 👀 I’m interested in front web development
 - 🌱 I’m currently learning TypeScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
